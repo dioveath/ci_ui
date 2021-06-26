@@ -7,11 +7,11 @@ A Simple Flutter package for Charicha Insitute UI.
 This package is developed to help to make developers' life easier
 by providing commonly used Widgets.
 
-# CIText 
-Text Widget
+### CIText 
+	Text Widget
 
-# CIButton
-Button Widget
+### CIButton
+	Button Widget
 
-# CIInputField
-Input Field
+### CIInputField
+	Input Field
